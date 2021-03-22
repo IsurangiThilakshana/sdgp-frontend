@@ -1,0 +1,52 @@
+.form
+{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+input
+{
+	width: 50%;
+	
+}
+
+.h1
+{
+	text-align: center;
+       
+}
+.doctitle{
+	text-decoration: blue;
+}
+
+.above
+{
+	text-decoration: navy;
+}
+
+.btncenter
+{
+	text-align: center;
+
+}
+
+.btn
+{
+	background-color: #088DA5;
+	padding: 15px;
+}
+
+.btn:hover
+{
+	background-color: #99ccff;
+}
+
+body{
+
+    background-color:#ccd9ff;
+	
+	
+    
+
+    
+}

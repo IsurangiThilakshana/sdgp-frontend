@@ -1,0 +1,71 @@
+.LogInPage-container{
+    color: black;
+  background: burlywood;
+}
+.Wrapper{
+    position: relative;
+    /* display:inline-flexbox; */
+    flex-flow: column;
+    z-index: 1;
+    height: 780px;
+    width: 100%;
+    max-width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 24px;
+    justify-content: center;
+}
+
+
+
+.LogInPage-para{
+    padding-top:220px ;
+    /* padding-left: 100px; */
+    display: grid;
+    width: 50%;
+    padding-bottom: 20px;
+    /* grid-auto-columns: minmax(auto,1fr); */
+    align-items: center;
+    border-bottom: 4px solid #31CCE0;
+}
+
+.TopLine{
+    color: #31CCE0;
+    background-color: black;
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.Heading{
+    font-size:50px;
+    /* padding-top: 20px; */
+}
+
+.Paragraph{
+    padding-top: 20px ;
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;;
+
+}
+
+.Button{
+    padding-top: 20px;
+    padding-left: 150px;
+
+}
+/* 
+.LogInPage-rightBox{
+    padding-bottom: 500PX;
+    padding-left: 70%;
+}
+.LogIn-Image{
+    height: 400px;
+    width: 530px;
+} */
+
+
+
+  
